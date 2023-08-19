@@ -3,7 +3,7 @@
 </p>
 
 <h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
-This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines. As we create 2 Virtual Machines, one will be utilized as a Domain Controller (DC). Inside said DC we will create showcase functionality and understand how IT departments allow users to sign into their accounts from any given computer (the other VM) that is connected to the Domain.<br />
+This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines. As we create 2 Virtual Machines, one will be utilized as a Domain Controller (DC). Inside said DC we will showcase its utility and understand how IT departments allow users to sign into their accounts from any given computer (the other VM) that is connected to the Domain.<br />
 
 
 
