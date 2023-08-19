@@ -92,7 +92,8 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 15. click next/next/next the click "Active Directory Domain Services and features"
 <p>
-![image](https://github.com/SeanMcClendon/configure-ad/assets/142221948/2cd9d553-60dd-47c2-8dfd-5c467c3617a3)
+
+   ![image](https://github.com/SeanMcClendon/configure-ad/assets/142221948/2cd9d553-60dd-47c2-8dfd-5c467c3617a3)
 
 16. click next/next/next/Install
 17. After Installation succeeded, click close then look for the yellow triangle in top right and click Promote to Domain Controller
